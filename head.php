@@ -20,6 +20,12 @@
 				<li class="nav-item">
 					<a class="nav-link" href="./add_user.php">Add User</a>
 				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="./logged_in.php">All Users</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="./logg_out.php">Logg Out</a>
+				</li>
 			</ul>
 		</div>
 	</nav>
